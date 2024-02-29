@@ -5,9 +5,7 @@ Hola. Estoy probando el procesado de imagenes con gradientes. Use metodos como L
 
 
 - 👋 Hi, I’m @PRGTZ o Pablo o Bob
-- 👀 I’m interested in Madres Solteras
+- 👀 I’m interested in robotics
 - 🌱 I’m currently learning python line follower
-- 💞️ I’m looking to collaborate on Tesla sisi
-- 📫 How to reach me ...
-
+- 💞️ I’m looking to collaborate on high tech projects
 

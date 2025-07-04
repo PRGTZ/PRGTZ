@@ -4,8 +4,8 @@ Hola. Estoy probando el procesado de imagenes con gradientes. Use metodos como L
 
 
 
-- 👋 Hi, I’m @PRGTZ o Pablo o Bob
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning computer vision
+- 👋 Hi, I’m @PRGTZ or Pablo
+- 👀 I’m interested in robotics, computer vision and electronics
+- 🌱 I’m currently learning C++ with Cisco Networking
 - 💞️ I’m looking to collaborate on high tech projects
 
